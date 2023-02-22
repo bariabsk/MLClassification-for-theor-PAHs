@@ -15,7 +15,7 @@ Repository for a machine-learning based project, implementing multi-class classi
 
 ### References:
 
-Following references are cited with gratitude for use of PAHdb and AmesPAHdbPythonSuite:
+The following references are cited with gratitude for use of PAHdb and AmesPAHdbPythonSuite:
 
 - C.W. Bauschlicher, Jr., A. Ricca, C. Boersma, L.J. Allamandola, "THE NASA AMES PAH IR SPECTROSCOPIC DATABASE: COMPUTATIONAL VERSION 3.00 WITH UPDATED CONTENT AND THE INTRODUCTION OF MULTIPLE SCALING FACTORS", The Astrophysical Journal Supplement Series, 234, 32, 2018.
 
