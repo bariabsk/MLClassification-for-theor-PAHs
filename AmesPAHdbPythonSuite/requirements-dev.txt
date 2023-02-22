@@ -1,0 +1,16 @@
+# These are required for developing the package (running the tests, building
+# the documentation) but not necessarily required for _using_ it.
+coverage
+flake8
+pytest
+mypy
+sphinx
+# These are dependencies of various sphinx extensions for documentation.
+ipython
+matplotlib
+nbsphinx
+numpydoc
+sphinx-copybutton
+docutils<0.17
+sphinx_rtd_theme
+graphviz

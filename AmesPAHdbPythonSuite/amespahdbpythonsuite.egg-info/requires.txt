@@ -1,0 +1,9 @@
+numpy
+astropy
+lxml
+matplotlib
+scipy
+packaging
+specutils
+vtk
+tqdm
