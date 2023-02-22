@@ -1,4 +1,6 @@
 ## MLClassification-for-theor-PAHs
+------
+
 Repository of a project implementing machine-learning based multi-class classification of theoretical PAHs (Polycyclic Aromatic Hydrocarbons) from The NASA Ames PAH IR Spectroscopic Database (PAHdb).
 -----
 
