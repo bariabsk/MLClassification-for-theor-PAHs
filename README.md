@@ -5,8 +5,8 @@ Repository for a machine-learning based project, implementing multi-class classi
 
 ### Content:
 
-- **classifyPAHs_rendered.ipynb**: Main Jupyter Notebook (Rendered).
 - **classifyPAHs.ipynb**: Main Jupyter Notebook (Unrendered).
+- **classifyPAHs_rendered.ipynb**: Main Jupyter Notebook (Rendered).
 - **Plots**: Folder consisting of plots generated for analysis. 
 - **AmesPAHdbPythonSuite**: Python module to work with the downloaded PAHdb XML-file.
 - **pahdb-complete-theoretical-v3.20_X3N8UL.xml.zip**: XML-file comprising of all theoretical data from PAHdb. Requires unzipping for use due to large size.
