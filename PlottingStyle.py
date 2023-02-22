@@ -1,11 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
 
 
 import matplotlib.pyplot as plt
 #Plotting Style:
+
 plt.style.use('default')
 plt.rcParams['text.usetex'] = True
 plt.rcParams['font.size'] = 14
